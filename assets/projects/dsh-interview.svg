@@ -16,7 +16,11 @@
   <circle cx="850" cy="230" r="160" fill="#2c9cdf" opacity="0.08" />
   <rect x="46" y="48" width="128" height="8" rx="4" fill="url(#line)" />
   <text x="46" y="122" fill="#ffffff" font-size="42" font-weight="700" font-family="Segoe UI, Arial, sans-serif">dsh-interview</text>
-  <text x="46" y="166" fill="#d8e7ff" font-size="23" font-family="Segoe UI, Arial, sans-serif">Local-first AI interview practice</text>
-  <text x="46" y="215" fill="#9fc8ff" font-size="18" font-family="Segoe UI, Arial, sans-serif">Agent workflow  •  Visual workspace  •  SQLite sessions</text>
-  <text x="46" y="260" fill="#ffc371" font-size="17" font-weight="600" font-family="Segoe UI, Arial, sans-serif">JAVASCRIPT   AI AGENTS   DEVELOPER TOOL</text>
+  <text x="46" y="178" fill="#d8e7ff" font-size="23" font-family="Segoe UI, Arial, sans-serif">Local-first AI interview practice plugin</text>
+  <g transform="translate(46 220)">
+    <rect width="58" height="38" rx="9" fill="#f7df1e" />
+    <text x="29" y="26" text-anchor="middle" fill="#1b1b1b" font-size="16" font-weight="700" font-family="Segoe UI, Arial, sans-serif">JS</text>
+    <rect x="72" width="92" height="38" rx="9" fill="#3c873a" />
+    <text x="118" y="26" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Node.js</text>
+  </g>
 </svg>

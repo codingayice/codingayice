@@ -16,7 +16,11 @@
   <circle cx="850" cy="240" r="150" fill="#a6ce39" opacity="0.08" />
   <rect x="46" y="48" width="128" height="8" rx="4" fill="url(#line)" />
   <text x="46" y="122" fill="#ffffff" font-size="46" font-weight="700" font-family="Segoe UI, Arial, sans-serif">word2json</text>
-  <text x="46" y="166" fill="#d8e7ff" font-size="23" font-family="Segoe UI, Arial, sans-serif">DOCX ↔ JSON conversion toolkit</text>
-  <text x="46" y="215" fill="#9fc8ff" font-size="18" font-family="Segoe UI, Arial, sans-serif">Reader  •  Writer  •  XML  •  CLI</text>
-  <text x="46" y="260" fill="#ffc371" font-size="17" font-weight="600" font-family="Segoe UI, Arial, sans-serif">TYPESCRIPT   NODE.JS   DOCUMENT TOOLS</text>
+  <text x="46" y="178" fill="#d8e7ff" font-size="23" font-family="Segoe UI, Arial, sans-serif">DOCX and JSON conversion toolkit</text>
+  <g transform="translate(46 220)">
+    <rect width="116" height="38" rx="9" fill="#3178c6" />
+    <text x="58" y="26" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="700" font-family="Segoe UI, Arial, sans-serif">TypeScript</text>
+    <rect x="130" width="92" height="38" rx="9" fill="#3c873a" />
+    <text x="176" y="26" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Node.js</text>
+  </g>
 </svg>

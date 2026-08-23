@@ -16,7 +16,13 @@
   <circle cx="850" cy="250" r="150" fill="#2c9cdf" opacity="0.08" />
   <rect x="46" y="48" width="128" height="8" rx="4" fill="url(#line)" />
   <text x="46" y="122" fill="#ffffff" font-size="42" font-weight="700" font-family="Segoe UI, Arial, sans-serif">my-claude-code</text>
-  <text x="46" y="166" fill="#d8e7ff" font-size="23" font-family="Segoe UI, Arial, sans-serif">A local Agent Harness in Java</text>
-  <text x="46" y="215" fill="#9fc8ff" font-size="18" font-family="Segoe UI, Arial, sans-serif">Tools  •  Context  •  Memory  •  Recovery</text>
-  <text x="46" y="260" fill="#ffc371" font-size="17" font-weight="600" font-family="Segoe UI, Arial, sans-serif">JAVA   AGENT RUNTIME   REACT + TAURI</text>
+  <text x="46" y="178" fill="#d8e7ff" font-size="23" font-family="Segoe UI, Arial, sans-serif">A local Agent Harness for reliable AI workflows</text>
+  <g transform="translate(46 220)">
+    <rect width="72" height="38" rx="9" fill="#ed8b00" />
+    <text x="36" y="26" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Java</text>
+    <rect x="86" width="78" height="38" rx="9" fill="#61dafb" />
+    <text x="125" y="26" text-anchor="middle" fill="#17202a" font-size="16" font-weight="700" font-family="Segoe UI, Arial, sans-serif">React</text>
+    <rect x="178" width="78" height="38" rx="9" fill="#24c8db" />
+    <text x="217" y="26" text-anchor="middle" fill="#17202a" font-size="16" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Tauri</text>
+  </g>
 </svg>
