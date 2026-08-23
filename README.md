@@ -42,8 +42,8 @@ This page is a collection of projects, experiments, and ongoing explorations.
       <p>The ideas behind reliable software: state, boundaries, persistence, communication, and recovery.</p>
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>🔬 Experiments</h3>
-      <p>Experiments at the intersection of code, automation, and intelligent software.</p>
+      <h3>🤖 Agents</h3>
+      <p>Agent experiments at the intersection of code, automation, and intelligent software.</p>
     </td>
   </tr>
 </table>
