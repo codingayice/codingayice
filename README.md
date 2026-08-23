@@ -100,24 +100,15 @@ This page is a collection of projects, experiments, and ongoing explorations.
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;" />
-  GitHub at a Glance
-</h2>
-
-<div align="center">
-  <a href="https://github.com/codingayice?tab=repositories"><img src="https://img.shields.io/github/stars/codingayice?style=for-the-badge&label=Total%20stars&color=FFC371" alt="Total stars" /></a>
-  <a href="https://github.com/codingayice?tab=followers"><img src="https://img.shields.io/github/followers/codingayice?style=for-the-badge&label=Followers&color=2C9CDF" alt="Followers" /></a>
-  <a href="https://github.com/codingayice/codingayice/actions/workflows/snake.yml"><img src="https://github.com/codingayice/codingayice/actions/workflows/snake.yml/badge.svg" alt="Snake workflow status" /></a>
-</div>
-
-<div align="center">
-  <sub>Languages and tools are shown above; project cards link directly to their repositories.</sub>
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;" />
   Contributions
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;" />
 </h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codingayice&theme=tokyonight" width="33%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingayice&theme=tokyonight" width="33%" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingayice&theme=tokyonight" width="33%" alt="Most committed language" />
+</div>
 
 <div align="center">
   <picture>
