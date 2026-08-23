@@ -5,7 +5,7 @@
   <h1>👋 Hi, I'm codingayice</h1>
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=2C9CDF&center=true&vCenter=true&width=680&lines=Building+things+in+public;Exploring+ideas+through+code+and+open+source;Tools%2C+systems%2C+and+experiments" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=2C9CDF&center=true&vCenter=true&width=680&lines=Exploring+ideas+through+code;Tools%2C+systems%2C+and+agents" alt="Typing introduction" />
   </a>
 
   <p>
@@ -27,26 +27,17 @@ This page is a collection of projects, experiments, and ongoing explorations.
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td width="33%" valign="top">
-
-### 🧩 Tools
-
-Small tools that make everyday development, learning, and problem-solving a little easier.
-
+    <td width="33%" valign="top" align="center">
+      <h3>🧩 Tools</h3>
+      <p>Small tools that make everyday development, learning, and problem-solving a little easier.</p>
     </td>
-    <td width="33%" valign="top">
-
-### 🧠 Systems
-
-The ideas behind reliable software: state, boundaries, persistence, communication, and recovery.
-
+    <td width="33%" valign="top" align="center">
+      <h3>🧠 Systems</h3>
+      <p>The ideas behind reliable software: state, boundaries, persistence, communication, and recovery.</p>
     </td>
-    <td width="33%" valign="top">
-
-### 🔬 Experiments
-
-Open-source experiments at the intersection of code, automation, and intelligent software.
-
+    <td width="33%" valign="top" align="center">
+      <h3>🔬 Experiments</h3>
+      <p>Experiments at the intersection of code, automation, and intelligent software.</p>
     </td>
   </tr>
 </table>
@@ -55,13 +46,13 @@ Open-source experiments at the intersection of code, automation, and intelligent
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,ts,js,python,react,redis,kafka,sqlite,docker,linux,git,github&perline=8" alt="Skills and tools" />
+  <img src="https://skillicons.dev/icons?i=java,go,rust,js,ts,github,linux&perline=7" alt="Skills and tools" />
 
   <br /><br />
 
   <img src="https://img.shields.io/badge/AI_Agents-2C9CDF?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
   <img src="https://img.shields.io/badge/Developer_Tools-FF5F6D?style=for-the-badge&logo=tools&logoColor=white" alt="Developer Tools" />
-  <img src="https://img.shields.io/badge/Open_Source-FFC371?style=for-the-badge&logo=opensourceinitiative&logoColor=141321" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Software-FFC371?style=for-the-badge&logo=code&logoColor=141321" alt="Software" />
 
 </div>
 
@@ -73,19 +64,19 @@ Open-source experiments at the intersection of code, automation, and intelligent
 
 <div align="center">
   <a href="https://github.com/codingayice/dsh-interview">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codingayice&repo=dsh-interview&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="dsh-interview" />
+    <img src="./assets/projects/dsh-interview.svg" width="49%" alt="dsh-interview" />
   </a>
   <a href="https://github.com/codingayice/my-claude-code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codingayice&repo=my-claude-code&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="my-claude-code" />
+    <img src="./assets/projects/my-claude-code.svg" width="49%" alt="my-claude-code" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/codingayice/TMC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codingayice&repo=TMC&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="TMC" />
+    <img src="./assets/projects/TMC.svg" width="49%" alt="TMC" />
   </a>
   <a href="https://github.com/codingayice/word2json">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codingayice&repo=word2json&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="word2json" />
+    <img src="./assets/projects/word2json.svg" width="49%" alt="word2json" />
   </a>
 </div>
 
@@ -98,12 +89,13 @@ Open-source experiments at the intersection of code, automation, and intelligent
 ## 📊 GitHub at a glance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codingayice&show_icons=true&hide_border=true&theme=radical&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingayice&layout=compact&hide_border=true&theme=radical&langs_count=8" height="165" alt="Top languages" />
+  <a href="https://github.com/codingayice?tab=repositories"><img src="https://img.shields.io/github/stars/codingayice?style=for-the-badge&label=Total%20stars&color=FFC371" alt="Total stars" /></a>
+  <a href="https://github.com/codingayice?tab=followers"><img src="https://img.shields.io/github/followers/codingayice?style=for-the-badge&label=Followers&color=2C9CDF" alt="Followers" /></a>
+  <a href="https://github.com/codingayice/codingayice/actions/workflows/snake.yml"><img src="https://github.com/codingayice/codingayice/actions/workflows/snake.yml/badge.svg" alt="Snake workflow status" /></a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingayice&theme=radical" width="100%" alt="GitHub activity summary" />
+  <sub>Languages and tools are shown above; project cards link directly to their repositories.</sub>
 </div>
 
 ## 🐍 Contributions
@@ -117,7 +109,7 @@ Open-source experiments at the intersection of code, automation, and intelligent
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF9190&center=true&vCenter=true&width=620&height=60&lines=Make+useful+things.;Share+what+you+learn.;Keep+building+in+public." alt="Closing message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF9190&center=true&vCenter=true&width=620&height=60&lines=Make+useful+things.;Share+what+you+learn.;Keep+exploring." alt="Closing message" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=110&section=footer&animation=twinkling" />
