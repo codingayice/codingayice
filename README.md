@@ -17,13 +17,19 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
-## ✨ A small corner of the open-source world
+<h2 align="center">
+  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;" />
+  A small corner of the open-source world
+</h2>
 
 I like making things that are useful, understandable, and worth sharing.
 
 This page is a collection of projects, experiments, and ongoing explorations.
 
-## 🧭 What I'm exploring
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;" />
+  What I'm exploring
+</h2>
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
@@ -42,7 +48,10 @@ This page is a collection of projects, experiments, and ongoing explorations.
   </tr>
 </table>
 
-## 🛠️ Skills & tools
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;" />
+  Skills &amp; Tools
+</h2>
 
 <div align="center">
 
@@ -60,7 +69,10 @@ This page is a collection of projects, experiments, and ongoing explorations.
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
 
-## ⭐ Selected projects
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;" />
+  Selected Projects
+</h2>
 
 <div align="center">
   <a href="https://github.com/codingayice/dsh-interview">
@@ -86,7 +98,10 @@ This page is a collection of projects, experiments, and ongoing explorations.
   </a>
 </div>
 
-## 📊 GitHub at a glance
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;" />
+  GitHub at a Glance
+</h2>
 
 <div align="center">
   <a href="https://github.com/codingayice?tab=repositories"><img src="https://img.shields.io/github/stars/codingayice?style=for-the-badge&label=Total%20stars&color=FFC371" alt="Total stars" /></a>
@@ -98,7 +113,11 @@ This page is a collection of projects, experiments, and ongoing explorations.
   <sub>Languages and tools are shown above; project cards link directly to their repositories.</sub>
 </div>
 
-## 🐍 Contributions
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;" />
+  Contributions
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;" />
+</h2>
 
 <div align="center">
   <picture>
