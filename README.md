@@ -39,7 +39,7 @@ This page is a collection of projects, experiments, and ongoing explorations.
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🧠 Systems</h3>
-      <p>The ideas behind reliable software: state, boundaries, persistence, communication, and recovery.</p>
+      <p>The ideas behind reliable software: clarity, simplicity, adaptability, and resilience.</p>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🤖 Agents</h3>
