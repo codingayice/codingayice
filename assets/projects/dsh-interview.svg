@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
   <title id="title">dsh-interview</title>
-  <desc id="desc">A local-first AI interview practice plugin.</desc>
+  <desc id="desc">DeepSeek Harness AI interview practice plugin.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#24134f" />
@@ -16,7 +16,7 @@
   <circle cx="850" cy="230" r="160" fill="#2c9cdf" opacity="0.08" />
   <rect x="46" y="48" width="128" height="8" rx="4" fill="url(#line)" />
   <text x="46" y="122" fill="#ffffff" font-size="42" font-weight="700" font-family="Segoe UI, Arial, sans-serif">dsh-interview</text>
-  <text x="46" y="178" fill="#d8e7ff" font-size="23" font-family="Segoe UI, Arial, sans-serif">Local-first AI interview practice plugin</text>
+  <text x="46" y="178" fill="#d8e7ff" font-size="23" font-family="Segoe UI, Arial, sans-serif">DeepSeek Harness AI interview practice plugin</text>
   <g transform="translate(46 220)">
     <rect width="58" height="38" rx="9" fill="#f7df1e" />
     <text x="29" y="26" text-anchor="middle" fill="#1b1b1b" font-size="16" font-weight="700" font-family="Segoe UI, Arial, sans-serif">JS</text>
