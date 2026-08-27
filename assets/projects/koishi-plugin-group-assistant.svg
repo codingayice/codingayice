@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">koishi-plugin-group-assistant</title>
+  <desc id="desc">Koishi group governance plugin.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#20204f" />
+      <stop offset="100%" stop-color="#173f50" />
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2c9cdf" />
+      <stop offset="100%" stop-color="#ff5f6d" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="300" rx="24" fill="url(#bg)" />
+  <circle cx="790" cy="46" r="115" fill="#2c9cdf" opacity="0.08" />
+  <circle cx="850" cy="240" r="150" fill="#ff5f6d" opacity="0.08" />
+  <rect x="46" y="48" width="128" height="8" rx="4" fill="url(#line)" />
+  <text x="46" y="122" fill="#ffffff" font-size="34" font-weight="700" font-family="Segoe UI, Arial, sans-serif">koishi-plugin-group-assistant</text>
+  <text x="46" y="178" fill="#d8e7ff" font-size="23" font-family="Segoe UI, Arial, sans-serif">Koishi group governance plugin</text>
+  <g transform="translate(46 220)">
+    <rect width="116" height="38" rx="9" fill="#3178c6" />
+    <text x="58" y="26" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="700" font-family="Segoe UI, Arial, sans-serif">TypeScript</text>
+    <rect x="130" width="86" height="38" rx="9" fill="#f0a45b" />
+    <text x="173" y="26" text-anchor="middle" fill="#17202a" font-size="16" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Koishi</text>
+  </g>
+</svg>

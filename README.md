@@ -87,8 +87,8 @@ This page is a collection of projects, experiments, and ongoing explorations.
   <a href="https://github.com/codingayice/TMC">
     <img src="./assets/projects/TMC.svg" width="49%" alt="TMC" />
   </a>
-  <a href="https://github.com/codingayice/word2json">
-    <img src="./assets/projects/word2json.svg" width="49%" alt="word2json" />
+  <a href="https://github.com/codingayice/koishi-plugin-group-assistant">
+    <img src="./assets/projects/koishi-plugin-group-assistant.svg" width="49%" alt="koishi-plugin-group-assistant" />
   </a>
 </div>
 
